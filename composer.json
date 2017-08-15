@@ -2,7 +2,7 @@
     "name": "sinan-artun/db-admin",
     "type": "library",
     "description": "Database Management system for Mysql with rest api integration",
-    "keywords": ["log","logging"],
+    "keywords": ["db","Database","API","Mysql"],
     "homepage": "https://github.com/sinan-artun/db-admin",
     "license": "MIT",
     "authors": [
